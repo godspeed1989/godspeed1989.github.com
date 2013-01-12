@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: godspeed1989
+tagline: godspeed1989 Blog
 ---
 {% include JB/setup %}
 
