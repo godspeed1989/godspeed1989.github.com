@@ -1,7 +1,6 @@
 ---
 layout: page
 title: godspeed1989
-tagline: 
 ---
 {% include JB/setup %}
 

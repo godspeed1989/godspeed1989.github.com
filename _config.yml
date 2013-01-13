@@ -14,7 +14,6 @@ tagline: blog of a geek
 author :
   name : yanlin
   github : godspeed1989
-  twitter : godspeed1989
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -80,7 +79,7 @@ JB :
     provider : disqus
     disqus :
       short_name : godspeed
-   
+
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
   # Set 'provider' to false to turn analytics off globally.
@@ -108,4 +107,3 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
-  
