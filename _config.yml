@@ -10,10 +10,9 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : godspeed1989 Blog
-tagline: Site Tagline
+tagline: godspeed1989's blog
 author :
   name : yanlin
-  email : godspeed1989@email.test
   github : godspeed1989
   twitter : godspeed1989
 #  feedburner :
