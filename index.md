@@ -4,9 +4,9 @@ title: godspeed1989
 ---
 {% include JB/setup %}
 
-<b>
-This is yanlin's blog on [github](https://github.com/godspeed1989)
-</b>
+This is yanlin's blog on [github](http://github.com/godspeed1989)
+-----------------------
+
 <br/>
 <br/>
 
