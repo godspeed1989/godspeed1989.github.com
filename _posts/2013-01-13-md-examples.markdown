@@ -23,13 +23,13 @@ followed by some text
 followed by some text
 
 - ** aaa **  
-	123456789
+    123456789
 
-`inline code`
+This is the example of `inline code`
 
-*italics*
+This is the example of *italics*
 
-**strong font**
+This is the example of **strong font**
 
 "Line" Separator:
 
@@ -39,34 +39,36 @@ followed by some text
 
 ------
 
+
+|Table Header 1|Table Header 2|
+|--------------|--------------|
+|Content       |Content       |
+|Content       |Content       |
+
+
 |Table Header 1|Table Header 2|Table Header 3|
 |--------------|--------------|--------------|
 |Content       |Content       |Content       |
 |Content       |Content       |Content       |
 
 
-```c++
+    $ cowsay -t 1234
+
+
+<code>
 #include <iostream>
-using namespace std;
 int main()
 {
 	return 0;
 }
-```
-
-```bash
-$sudo apt-get install xxx
-$sudo shutdown -h now
-```
-
-    $ cowsay -t 1234
-
+</code>
 
 Here's a sample "posts list".
 
 <ul class="posts">
   {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+    <li><span>{{ post.date | date_to_string }}</span> &raquo;
+    <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
 
