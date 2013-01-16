@@ -41,32 +41,28 @@ This is the example of ***very strong font***
 
 ------
 
-
-|Table Header 1|Table Header 2|
-|--------------|--------------|
-|Content       |Content       |
-|Content       |Content       |
-
+`list` example:
++ Candy.
++ Gum.
++ Booze.
 
 |Table Header 1|Table Header 2|Table Header 3|
 |--------------|--------------|--------------|
 |Content       |Content       |Content       |
 |Content       |Content       |Content       |
 
-
     $ cowsay -t 1234
+<br/>
 
+<pre><code>
+#include <iostream>
+int main()
+{
+	return 0;
+}
+</code></pre>
 
-```
-	#include <iostream>
-	int main()
-	{
-		return 0;
-	}
-```
-
-
-Here's a sample "posts list".
+Here's a sample `posts list`.
 
 <ul class="posts">
   {% for post in site.posts %}
