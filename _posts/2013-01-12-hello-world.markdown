@@ -1,6 +1,6 @@
 ---
 layout: page
-title :  Hello World
+title : Hello World
 categories : [lessons, beginner]
 tagline: godspeed1989 Blog <- tageline
 ---

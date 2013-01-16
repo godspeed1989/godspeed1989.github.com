@@ -1,6 +1,6 @@
 ---
 layout: page
-title :  mardown example
+title : markdown example
 categories : [lessons, beginner]
 tagline: some markdown examples
 ---
