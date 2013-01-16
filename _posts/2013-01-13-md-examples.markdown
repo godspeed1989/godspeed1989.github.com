@@ -31,6 +31,8 @@ This is the example of *italics*
 
 This is the example of **strong font**
 
+This is the example of ***very strong font***
+
 "Line" Separator:
 
 --
@@ -55,13 +57,14 @@ This is the example of **strong font**
     $ cowsay -t 1234
 
 
-<code>
-#include <iostream>
-int main()
-{
-	return 0;
-}
-</code>
+```
+	#include <iostream>
+	int main()
+	{
+		return 0;
+	}
+```
+
 
 Here's a sample "posts list".
 
