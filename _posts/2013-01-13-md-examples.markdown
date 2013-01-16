@@ -53,14 +53,12 @@ This is the example of ***very strong font***
 
     $ cowsay -t 1234
 <br/>
+	#include <iostream>
+	int main()
+	{
+		return 0;
+	}
 
-<pre><code>
-#include <iostream>
-int main()
-{
-	return 0;
-}
-</code></pre>
 
 Here's a sample `posts list`.
 
